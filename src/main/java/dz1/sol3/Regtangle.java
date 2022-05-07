@@ -1,6 +1,6 @@
 package dz1.sol3;
 
-public class Regtangle implements Figure{
+public class Regtangle extends Figure {
     private double sideA;
     private double sideB;
 

@@ -1,6 +1,6 @@
 package dz1.sol3;
 
-public class Circle implements Figure{
+public class Circle extends Figure {
     private double radius;
 
     public Circle(double radius) {

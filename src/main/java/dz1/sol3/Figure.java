@@ -1,6 +1,6 @@
 package dz1.sol3;
 
-public interface Figure {
-    double square();
-    TypeFigure getType();
+public abstract class Figure {
+    public abstract double square();
+    public abstract TypeFigure getType();
 }

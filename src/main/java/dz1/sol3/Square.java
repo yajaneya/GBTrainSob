@@ -1,6 +1,6 @@
 package dz1.sol3;
 
-public class Square implements Figure{
+public class Square extends Figure {
     private double side;
 
     public Square(double side) {
